@@ -244,14 +244,15 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 <br/><br/><br/>
 
 ## 🛠프로젝트 빌드 및 배포
-[프로젝트_빌드_및_배포.md](https://github.com/MoochangPark/EDDUSSAFY/files/10101055/_._._.md)
+- [프로젝트_빌드_및_배포.md](https://github.com/MoochangPark/EDDUSSAFY/files/10101055/_._._.md)
 
 
 <br/><br/><br/>
 
 ## ⚙시스템 환경 및 구성
 
-![아키텍쳐](/uploads/f32d442589c8e456c69a6c20e1efe00a/아키텍쳐.png)
+![아키텍쳐](https://user-images.githubusercontent.com/119276371/204209041-dd1d1b8d-1e3f-4b70-b196-72baf2110a8f.png)
+
 
 - OS: Windows10, Linux
 - Backend Framework: Spring Boot 2.7.1
