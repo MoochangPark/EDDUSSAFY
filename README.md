@@ -182,6 +182,7 @@ feature : 세부 기능을 개발하는 브랜치
 
 
 ### 채팅 기능(학생용)
+![채팅_기능_학생용_](https://user-images.githubusercontent.com/119276371/204208469-63b66d59-d8f9-48cc-b6b6-9a3aeb5af589.gif)
 
 
 ### 퀴즈 풀기(학생용)
@@ -189,6 +190,7 @@ feature : 세부 기능을 개발하는 브랜치
 
 
 ### 방 입장(학생용)
+![방_입장_학생용_](https://user-images.githubusercontent.com/119276371/204208479-ef77d41d-582d-4c90-a325-f3326ca14aa2.gif)
 
 
 ### 방 생성(교수용)
@@ -196,6 +198,7 @@ feature : 세부 기능을 개발하는 브랜치
 
 
 ### 채팅 기능(교수용)
+![채팅_기능_교수용_](https://user-images.githubusercontent.com/119276371/204208491-6940efcb-2f7a-45dd-8384-cbb273b3265d.gif)
 
 
 ### 퀴즈 생성(교수용)
