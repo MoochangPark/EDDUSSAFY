@@ -1,4 +1,4 @@
-# ![favicon-32x32](/uploads/0065b79aaeec8b89d0386770bf08fcb7/favicon-32x32.png) EDDU SSAFY(에뜌 싸피)
+# ![favicon-32x32](https://user-images.githubusercontent.com/119276371/204205520-dfacc809-f1c7-48a1-8b05-f49c6e0808f9.png) EDDU SSAFY(에뜌 싸피)
 비대면 수업을 위한 화상회의 사이트
 
 <br/>
@@ -107,35 +107,33 @@ feature : 세부 기능을 개발하는 브랜치
 <br/>
 
 - **와이어프레임**(figma)
-
-![image](/uploads/fef3c172a69813a46ec8e44c7afea670/image.png)
+![image](https://user-images.githubusercontent.com/119276371/204205652-7055a306-dfcc-4308-8594-0fd2fd2f514b.png)
 
 <br/>
 
 - **ERD**
-
-![image](/uploads/5b20fd3e0259ce47136e939d85d5f1fb/image.png)
+![image](https://user-images.githubusercontent.com/119276371/204205687-317399ff-da60-467a-8791-ea8fdc0cf3e1.png)
 
 <br/>
 
 - **화면정의서**
 
-<img src="/uploads/17028b920dfb76d79d4f25ac38f2e5c7/image.png" width="45%"> <img src="/uploads/88ce51527c0d7d02181a6cc210c85a8c/image.png" width="45%">
-<img src="/uploads/07d3045d7c2c95165181bf8541b3d3e3/image.png" width="45%"> <img src="/uploads/6ba5be1bcdd1e14a3bef9a918cf2de0d/image.png" width="45%">
-<img src="/uploads/4a466c788d73adb7a2ec93b17f838a2a/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204205888-a3be8d44-d140-4da6-a6a0-ae4cd3f12460.png" width="45%"> <img src="https://user-images.githubusercontent.com/119276371/204205974-953f763b-f77e-4745-b195-9a688918730d.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206029-4cf84494-9ddb-490d-b1d1-a330fa3f65be.png" width="45%"> <img src="https://user-images.githubusercontent.com/119276371/204206063-3a238e5a-b8c2-4919-808c-5de72022829f.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206089-888125c8-9fd4-4fb4-b1e8-0f4474f4efe0.png" width="45%">
 
 <br/>
 
-<img src="/uploads/f530e8f431395ad1d73d72bdf5db4d85/image.png" width="45%"> <img src="/uploads/d6d7718c53f86086e75fd6de0eb78886/image.png" width="45%">
-<img src="/uploads/6fe31aab8ca622964259fb8ff651c9fa/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206157-679e32fa-3da1-406c-82ec-2413f3869433.png" width="45%"> <img src="https://user-images.githubusercontent.com/119276371/204206173-2fc901f7-3202-4f1f-8df5-bb2a9b50f02c.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206199-59bd9cd7-3336-43d8-be7f-0ea8c6f47b98.png" width="45%">
 
 <br/>
 
 - **시퀀스 다이어그램**
 
-<img src="/uploads/174558e5e0ad665433136461962f2adc/image.png" width="45%"> <img src="/uploads/6dd1c4a71dd68df28d9655548b462d9e/image.png" width="45%">
-<img src="/uploads/71855836f707b1c0e8f07b42ab90fa63/image.png" width="45%"> <img src="/uploads/b83155f8fa963d9d3e774aaa12cfda49/image.png" width="45%">
-<img src="/uploads/f9dcee540d384403ea660dff248fd6e3/image.png" width="45%"> <img src="/uploads/54ba1d146c6d84c83a8aa632b89ade6f/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206275-3785d811-b863-4faf-8593-befec316d18d.png" width="45%"> <img src="https://user-images.githubusercontent.com/119276371/204206300-3b81495a-3a1b-41a2-96c0-f1623c6aea5e.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206323-2ac54f34-7ebc-4040-bd63-fab8e2cb2032.png" width="45%"> <img src="https://user-images.githubusercontent.com/119276371/204206339-07b3c10c-4972-4117-a4be-93bb64b71333.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119276371/204206367-3fe40cdb-654b-4bb0-b51e-06fcca5eabb9.png" width="45%"> <img src="https://user-images.githubusercontent.com/119276371/204206402-07d854a3-9a4e-4235-b3e8-5ae3ff44e689.png" width="45%">
 
 
 <br/><br/><br/>
@@ -164,22 +162,27 @@ feature : 세부 기능을 개발하는 브랜치
 ## 📌주요 기능
 
 ### 회원 가입
-![회원가입](/uploads/a3d4cbc0c24e82bab8f6e1bb6f0b29ed/회원가입.gif)
+![회원가입](https://user-images.githubusercontent.com/119276371/204206451-6d9bc1f4-cf9f-4a07-9202-fc410f59afb5.gif)
+
 
 ### 로그인
-![로그인](/uploads/12098c3ca3b584615a6a5824e58a5a3b/로그인.gif)
+![로그인](https://user-images.githubusercontent.com/119276371/204206471-7e4ea85e-a7fc-403f-890c-c4a1cab77ec2.gif)
+
 
 ### 개인정보 수정
-![개인정보_수정](/uploads/dd1160a1ad11394f929c0f7ac8e76b22/개인정보_수정.gif)
+![개인정보_수정](https://user-images.githubusercontent.com/119276371/204206483-a51c6acf-35c3-4b74-a9fa-3ee081c89ed7.gif)
+
 
 ### 비밀번호 변경
-![비밀번호_변경](/uploads/af76a9ead980f0470066abc27f7e5ac8/비밀번호_변경.gif)
+![비밀번호_변경](https://user-images.githubusercontent.com/119276371/204206503-c8e9e4e6-3f8c-4d02-86f5-c524b831fd34.gif)
+
 
 ### 회원 탈퇴
-![회원_탈퇴](/uploads/e2b4665d3abee6d3c41af82be8034ff3/회원_탈퇴.gif)
+![회원_탈퇴](https://user-images.githubusercontent.com/119276371/204206523-3c57f5d4-b77a-4d58-a842-b66f3e5a5a7e.gif)
+
 
 ### 채팅 기능(학생용)
-![채팅_기능_학생용_](/uploads/4a519bde36a110564abc15fbb2cc3579/채팅_기능_학생용_.gif)
+
 
 ### 퀴즈 풀기(학생용)
 ![퀴즈_풀기_학생용_](/uploads/071ce709637b48d986a036af8a025073/퀴즈_풀기_학생용_.gif)
