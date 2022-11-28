@@ -185,28 +185,34 @@ feature : 세부 기능을 개발하는 브랜치
 
 
 ### 퀴즈 풀기(학생용)
-![퀴즈_풀기_학생용_](/uploads/071ce709637b48d986a036af8a025073/퀴즈_풀기_학생용_.gif)
+![퀴즈_풀기_학생용_ (1)](https://user-images.githubusercontent.com/119276371/204206848-ca74002a-8403-4ed6-b2f4-196d4006ec24.gif)
+
 
 ### 방 입장(학생용)
-![방_입장_학생용_](/uploads/65cd9f15c95eef8df207f32bd73c2196/방_입장_학생용_.gif)
+
 
 ### 방 생성(교수용)
-![방_생성_교수용_](/uploads/5f9ce518387b4f00738afea037e31a67/방_생성_교수용_.gif)
+![방_생성_교수용_](https://user-images.githubusercontent.com/119276371/204206908-2308ea44-b32e-49f0-afd5-7236b05f21dc.gif)
+
 
 ### 채팅 기능(교수용)
-![채팅_기능_교수용_](/uploads/b30644be16ee32be849f9d4a4c9b2546/채팅_기능_교수용_.gif)
+
 
 ### 퀴즈 생성(교수용)
-![퀴즈_생성_교수용_](/uploads/534103446170c72e820f38bb2b9369ca/퀴즈_생성_교수용_.gif)
+![퀴즈_생성_교수용_](https://user-images.githubusercontent.com/119276371/204206943-b384cd76-5451-4ef4-9b10-35338c795cd7.gif)
+
 
 ### 화면 공유(교수용)
-![화면_공유_교수용_](/uploads/cf633166836439aeff921f50eaec3034/화면_공유_교수용_.gif)
+![화면_공유_교수용_](https://user-images.githubusercontent.com/119276371/204206970-c7cca7f8-3cfe-43e9-9537-4b2a98cba23b.gif)
+
 
 ### 퀴즈 풀기(교수용)
-![퀴즈_풀기_학생용_](/uploads/9edcbf265ac17d729e961c6fd8b63600/퀴즈_풀기_학생용_.gif)
+![퀴즈_풀기_학생용_](https://user-images.githubusercontent.com/119276371/204206990-9a87cc89-11a8-4511-83fb-a79c88a73c72.gif)
+
 
 ### 방 나가기(교수용)
-![방_나가기_교수용_](/uploads/9684ba5d6738fdbc5355eccbf9c000a9/방_나가기_교수용_.gif)
+![방_나가기_교수용_](https://user-images.githubusercontent.com/119276371/204207007-88230183-c327-4edb-b342-6bbb8dfb1ea2.gif)
+
 
 
 
